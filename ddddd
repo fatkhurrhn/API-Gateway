@@ -1,0 +1,32 @@
+[33mcommit 75533618d1d38259e8a75146fe43198c441d9a5f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Fathur <114320333+fatkhurrhn@users.noreply.github.com>
+Date:   Thu Jun 18 14:30:00 2026 +0700
+
+    up1
+
+[33mcommit 141f182b318fb1119130c6e21b0e813b8b42f305[m
+Merge: 72819a3 03bb391
+Author: Fathur <114320333+fatkhurrhn@users.noreply.github.com>
+Date:   Sat Jul 4 10:10:05 2026 +0700
+
+    Merge branch 'main' of https://github.com/fatkhurrhn/api-free
+
+[33mcommit 72819a330217c3d4d1e836c7f071cc89493f3e9f[m
+Author: Fathur <114320333+fatkhurrhn@users.noreply.github.com>
+Date:   Sat Jul 4 10:09:53 2026 +0700
+
+    up1
+
+[33mcommit 03bb3917baae5ca4020eeb7ace08e8690d468468[m
+Author: FaDev ~ <114320333+fatkhurrhn@users.noreply.github.com>
+Date:   Tue Jun 16 19:12:07 2026 +0700
+
+    Update README with project title and description
+    
+    Added project title and description to the README.
+
+[33mcommit 6a15a08d0a97da0f8ac45438266ede14899414bd[m
+Author: Fathur <114320333+fatkhurrhn@users.noreply.github.com>
+Date:   Fri Jun 12 14:26:11 2026 +0700
+
+    first commit
